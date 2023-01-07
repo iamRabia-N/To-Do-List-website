@@ -1,7 +1,7 @@
 $(".heading").click(function() {
     $(".card").css({ "visibility": "visible" });
 });
-$('.bttn').click(function () {
+$('.bttn').click(function() {
     var newli = $('input[name=listarea]').val();
     $('ol').append('<li>' + newli + '</li>');
     $(".searcharea").val('');
@@ -12,6 +12,6 @@ $("input[name=listarea]").keyup(function(e) {
         $(".bttn").click();
     }
 });
-$(document).on('dblclick', 'li', function() {
+$(document).on('dblclick', 'li', function () {
     $(this).toggleClass('del').fadeOut('slow');
 });
