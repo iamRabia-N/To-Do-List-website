@@ -10,7 +10,7 @@ $('.bttn').click(function () {
 $("input[name=listarea]").keyup(function(e) {
     if (e.keyCode == 13) {
         $(".bttn").click();
-    } 
+    }
 });
 $(document).on('dblclick', 'li', function() {
     $(this).toggleClass('del').fadeOut('slow');
