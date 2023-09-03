@@ -18,5 +18,4 @@ TODOS is a small, simple yet beautiful todo list website. It can help you record
 ## Badges
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iamRabia-N/To-Do-List-website)
-
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/iamRabia-N/To-Do-List-website)
