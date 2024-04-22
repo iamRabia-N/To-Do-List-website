@@ -12,7 +12,7 @@ TODOS is a small, simple yet beautiful todo list website. It can help you record
 - Addition of tasks
 - Deletion of tasks
 - Responsive
-- User-Friendly
+- User-friendly
 
 
 ## Badges
